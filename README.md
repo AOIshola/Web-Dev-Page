@@ -1,0 +1,1 @@
+# This is a responsive Web Training page built with HTML and CSS
